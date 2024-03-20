@@ -2,10 +2,7 @@
 
 # It's an React Backend Code Linked to [Sample Spring Boot Frontend Project](https://github.com/santoshgit1/Spring-Boot-Sample-Project).
 
-#->Example
-[![dependencies Status](https://david-dm.org/mertakdut/React-Sample-Project/status.svg)](https://david-dm.org/mertakdut/React-Sample-Project) [![devDependencies Status](https://david-dm.org/mertakdut/React-Sample-Project/dev-status.svg)](https://david-dm.org/mertakdut/React-Sample-Project?type=dev)
-
-  An Example React application that demonstrates using [React] with [webpack], [babeljs], and [redux], as well as project structure. Currently, it is designed to work as [this project](https://github.com/santoshgit1/Spring-Boot-Sample-Project)'s frontend.
+An Example React application that demonstrates using [React] with [webpack], [babeljs], and [redux], as well as project structure. Currently, it is designed to work as [this project](https://github.com/santoshgit1/Spring-Boot-Sample-Project)'s frontend.
 ## Installation
   Requirements:
   - [Node](https://nodejs.org/en/download/)
